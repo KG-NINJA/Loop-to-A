@@ -12,7 +12,23 @@ Why? Because many participants voiced the same doubts:
 - Was OpenAI central, or only an afterthought?  
 - Did story-driven and GPT-first approaches get overlooked?  
 
-This repository answers by making that alternative vision **concrete reality**.  
+And the rules themselves made this outcome possible.  
+
+---
+
+## The Rule Gap
+See the [Official Competition Rules on Kaggle](https://www.kaggle.com/competitions/openai-to-z-challenge/rules).  
+
+Section 6 allows the use of external data and tools, as long as they meet the so-called **Reasonableness Standard**:  
+
+> *"Are Participants being excluded from a competition because of the 'excessive' costs for access to certain LLMs, external data, or tools... The Host will assess the excessive cost concern by applying a 'Reasonableness' standard (the 'Reasonableness Standard')."*  
+
+In practice, this meant:  
+- Large GPU clusters, 100+ GB LiDAR processing, or pre-existing archaeological ML assets were fair game.  
+- "Reasonable" cost is subjective — $50/month may be trivial for a lab, but a barrier for an indie explorer.  
+- **OpenAI usage was never required**, so those with heavy ML infrastructure dominated.  
+
+This gap between the **brand promise (“OpenAI Challenge”)** and the **rule reality (“any ML, as long as reasonable”)** is what fueled confusion and frustration.  
 
 ---
 
