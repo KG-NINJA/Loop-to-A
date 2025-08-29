@@ -34,7 +34,16 @@ At the same time, the [official competition description](https://www.kaggle.com/
 
 Yet in practice, **even minimal use of OpenAI (e.g. drafting a write-up) was enough to qualify**, leaving room for ML-heavy solutions to dominate.  
 
-This gap between the **brand promise (“OpenAI Challenge”)** and the **rule reality (“any ML, as long as reasonable”)** is what fueled confusion and frustration.  
+---
+
+## The Serious Ambiguity
+This contradiction between the **General Rules (no OpenAI requirement)** and the **Description (explicit OpenAI requirement)** created major confusion.  
+For a global competition with hundreds of thousands of dollars at stake, such ambiguity is **serious**:  
+- It misleads participants into believing OpenAI must be central.  
+- It allows others to qualify with only token usage.  
+- It undermines the trust and credibility of the competition format.  
+
+This is why Alt Awards exist: **to realign recognition with the original spirit — GPT-first exploration and transparency.**  
 
 ---
 
