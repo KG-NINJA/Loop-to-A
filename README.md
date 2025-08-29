@@ -131,9 +131,68 @@ Yes. The rubric explicitly values interpretability, openness, and collaborative 
 If this resonates, help test the rubric. Suggest criteria, point to public artifacts worth learning from, or propose a small **replication slice** others can run. The fastest way to heal the two-track gap is to **measure what we claim to value**—and then reward it in public.
 
 ---
+# 🌀 OpenAI to Z: Alt Awards
+
+## Why this repository?
+The OpenAI to Z Challenge was supposed to be about *how we use OpenAI technologies*.  
+But in reality, the winners were mostly participants with **strong pre-existing ML assets**.  
+Those who put GPT at the *center* of their exploration had a much harder time being recognized.  
+This makes the challenge look more like a traditional Kaggle competition rather than a true OpenAI showcase.  
+
+So I ask: **What if there was a parallel world where GPT-first approaches were judged on their own terms?**  
+This repository introduces the **Alt Awards** — an alternative evaluation axis.
+
+---
+
+## Alt Metrics (Evaluation Criteria)
+
+1. **GPT Usage Ratio**  
+   - To what extent was GPT used in analysis, generation, and reporting?  
+   - Not “just a helper,” but was GPT truly the *core engine*?
+
+2. **Transparency**  
+   - Are methods and data sources explained openly?  
+   - No “after-the-fact” private datasets or hidden pipelines.
+
+3. **Narrative Consistency**  
+   - Beyond raw technical work, does the project tell a coherent story — blending AI and archaeology into something meaningful?
+
+---
+
+## Parallel Awards (Examples)
+
+> *These are not official Kaggle rankings. They are “what if” awards in a parallel GPT-first world.*
+
+- 🥇 **OpenAI-First Award**  
+  For projects where GPT was the central driver across all stages.  
+
+- 🥈 **Transparency Award**  
+  For projects whose methods and data are reproducible and clearly documented.  
+
+- 🥉 **Narrative Award**  
+  For projects that fused scientific method with myth, story, and imagination in a compelling way.  
+
+*(Specific projects to be listed and analyzed in future updates.)*
+
+---
+
+## Purpose
+- This is **not about attacking winners**.  
+- It is about creating **a second lens**:  
+  *If GPT-first creativity had been its own category, who would have been celebrated?*  
+- The aim is to give artists, indie engineers, and explorers without huge ML assets a place to shine — a stage where **OpenAI is truly the protagonist**.
+
+---
 
 ## Support
+If you resonate with this perspective, you can support here:  
+👉 [BuyMeACoffee](https://buymeacoffee.com/KGNINJA?ref=kg)  
 
-If you found this work interesting or useful, please consider supporting my work here: **[Buy Me a Coffee](https://buymeacoffee.com/kgninja)**. Thank you!
+You are also welcome to **clone this repo** and define your own Alt Awards criteria.  
+Let’s create many parallel worlds of evaluation.  
 
+---
+
+## License
+MIT License
 *Humanity Score v1.0 — working paper. Updates will be appended as the community refines the standard.*
