@@ -26,7 +26,13 @@ Section 6 allows the use of external data and tools, as long as they meet the so
 In practice, this meant:  
 - Large GPU clusters, 100+ GB LiDAR processing, or pre-existing archaeological ML assets were fair game.  
 - "Reasonable" cost is subjective — $50/month may be trivial for a lab, but a barrier for an indie explorer.  
-- **OpenAI usage was never required**, so those with heavy ML infrastructure dominated.  
+- **OpenAI usage was never required in the General Rules**, so those with heavy ML infrastructure dominated.  
+
+At the same time, the [official competition description](https://www.kaggle.com/competitions/openai-to-z-challenge/overview) stated:  
+
+> *"Your quest must be supported using OpenAI models to be eligible for participation."*  
+
+Yet in practice, **even minimal use of OpenAI (e.g. drafting a write-up) was enough to qualify**, leaving room for ML-heavy solutions to dominate.  
 
 This gap between the **brand promise (“OpenAI Challenge”)** and the **rule reality (“any ML, as long as reasonable”)** is what fueled confusion and frustration.  
 
