@@ -61,9 +61,8 @@ These are not “imaginary” awards — they are **real acknowledgments**, runn
 ---
 
 ## Purpose
-- This is not about attacking official winners.  
-- It is about affirming that **GPT-first contributions deserve their own reality**.  
-- To provide artists, indie engineers, and explorers with an **authentic stage**.  
+This is not about overturning the official winners.  
+**The goal is to build another stage — one where GPT-first explorers, indie engineers, and story-driven projects can shine.**  
 
 The official scoreboard is one truth.  
 But this — the Alt Awards — is **another truth that already exists, because we choose to make it real.**  
