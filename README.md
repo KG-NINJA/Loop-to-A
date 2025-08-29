@@ -1,3 +1,22 @@
+## The Serious Ambiguity
+This contradiction between the **General Rules (no OpenAI requirement)** and the **Description (explicit OpenAI requirement)** created major confusion.  
+For a global competition with hundreds of thousands of dollars at stake, such ambiguity is **serious**:  
+- It misleads participants into believing OpenAI must be central.  
+- It allows others to qualify with only token usage.  
+- It undermines the trust and credibility of the competition format.  
+
+This is why Alt Awards exist: **to realign recognition with the original spirit — GPT-first exploration and transparency.**  
+
+---
+
+## Beyond Money: Building a Culture First
+💯 was the first proof that an alternative stage of evaluation has already begun.  
+Right now, the focus is not money but **growing a culture of fair recognition and open evaluation**.  
+
+If enough people resonate and gather, resources — even symbolic prize pools — can naturally follow later.  
+This way, no one will mistake this for “just fundraising”; it will be clear that the foundation is **community values first, resources second**.  
+
+
 # 🌀 OpenAI to Z: Alt Awards (This is the Real Stage)
 
 > *"Where exactly was OpenAI used in the top projects?"* — participant on Discord  
